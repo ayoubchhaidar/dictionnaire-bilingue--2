@@ -1,0 +1,17 @@
+Mot:hello
+ Type :'Adverbe',Traduction(FR):'salut',Exemple:'salut mr hamda',Exemple2:'hello there '.
+Mot:tomorrow
+ Type :'Nom',Traduction(FR):'demain',Exemple:'we go again tomorrow',Exemple2:'we go again tomorrow'.
+Mot:Question
+ Type :'Nom',Traduction(FR):'question',Exemple:'any questions?',Exemple2:'any questions?'.
+Mot:table
+ Type :'nom',Traduction(FR):'table',Exemple:'sur la table',Exemple2:'on the table'.
+Mot:color
+ Type :'nom',Traduction(FR):'couleur',Exemple:'la couleur bleu',Exemple2:'the blue color'.
+Mot:brother
+ Type :'nom',Traduction(FR):'frere',Exemple:'mon frere',Exemple2:'my brother'.
+Mot:hii
+ Type :'Adverbe',Traduction(FR):'salut',Exemple:'salut mr hamda',Exemple2:'hi there'.
+Mot:boy
+ Type :'Nom',Traduction(FR):'garcon',Exemple:'le garcon aller a lecole',Exemple2:'the boy go to school'.
+ Type :'Nom',Traduction(FR):'fils',Exemple:'le fils aller a dormir',Exemple2:'the boy go to school'.

@@ -1,0 +1,3 @@
+Mot:salut
+Mot en FR:'salut' Type :'Adverbe',Traduction(EN):'hello',Exemple:'hello there ',Exemple2:'salut mr hamda'.
+Mot en FR:'salut' Type :'Nom',Traduction(EN):'hii',Exemple:'hi there',Exemple2:'salut mr hamda'.
